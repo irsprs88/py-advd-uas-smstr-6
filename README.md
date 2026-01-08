@@ -123,11 +123,6 @@ Video harus di-upload ke YouTube dengan hashtags:
 
 ## 👨‍💻 Author
 
-**Nama Mahasiswa**: [Isi nama Anda]  
-**NIM**: [Isi NIM Anda]  
-**Email UNDIRA**: [Isi email UNDIRA Anda]
-
----
-
-**Selamat Mengerjakan! 🎓**
+**Nama Mahasiswa**: Irsyad
+**NIM**: 411222059
 
