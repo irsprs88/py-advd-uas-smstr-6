@@ -1,0 +1,17 @@
+ID_Transaksi,Tanggal,Kategori_Produk,Lokasi_Pengiriman,Rating_Produk,Biaya_Promosi,Jumlah_Transaksi,Total_Pendapatan
+T001,2025-01-01,Elektronik,Jakarta,4.5,50000,20,1000000
+T002,2025-01-05,Fesyen,Surabaya,3.2,20000,15,750000
+T003,2025-01-10,Elektronik,Jakarta,4.8,60000,25,1250000
+T004,2025-01-15,Perabotan,Bandung,4.0,40000,10,500000
+T005,2025-01-20,Fesyen,Surabaya,3.5,15000,18,900000
+T006,2025-02-01,Elektronik,Bandung,4.1,55000,22,1100000
+T007,2025-02-05,Fesyen,Jakarta,3.8,25000,16,800000
+T008,2025-02-10,Perabotan,Surabaya,4.6,30000,12,600000
+T009,2025-02-15,Elektronik,Jakarta,4.9,65000,30,1500000
+T010,2025-02-20,Perabotan,Bandung,4.2,35000,11,550000
+T011,2025-03-01,Fesyen,Surabaya,3.0,10000,14,700000
+T012,2025-03-05,Elektronik,Bandung,4.7,70000,28,1400000
+T013,2025-03-10,Perabotan,Jakarta,4.3,45000,13,650000
+T014,2025-03-15,Fesyen,Jakarta,3.6,20000,17,850000
+T015,2025-03-20,Elektronik,Surabaya,4.4,50000,21,1050000
+
